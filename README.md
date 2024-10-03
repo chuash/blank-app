@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 My first Streamlit app on Streamlit Community Cloud
 
 A simple Streamlit app template for you to modify!
 
